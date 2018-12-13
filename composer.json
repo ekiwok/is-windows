@@ -1,0 +1,25 @@
+{
+    "name": "ekiwok/is-windows",
+    "description": "Check if operating system is Windows.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Piotr Kowalczyk",
+            "email": "github@kowalczyk.codes"
+        }
+    ],
+    "autoload": {
+        "files": ["src/is-windows.php"],
+        "psr-4": {
+            "Ekiwok\\Test\\": "test/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
