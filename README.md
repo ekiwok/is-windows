@@ -1,6 +1,6 @@
 # is-windows
 
-Ready to check if you are running on Windows?
+Ready to check if you are running on Windows? [![Build Status](https://travis-ci.org/ekiwok/is-windows.svg?branch=master)](https://travis-ci.org/ekiwok/is-windows)
 
 #### Installation
 

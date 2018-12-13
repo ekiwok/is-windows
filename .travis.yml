@@ -1,7 +1,6 @@
 language: php
 
 php:
-  - '7.0'
   - '7.1'
   - '7.2'
   - '7.3'
@@ -9,4 +8,4 @@ php:
 before_script:
   - composer install
 
-script vendor/bin/phpunit
+script: vendor/bin/phpunit
